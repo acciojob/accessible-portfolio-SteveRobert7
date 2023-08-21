@@ -1,2 +1,19 @@
 
-/* Your CSS Code here. */
+/* Your CSS Code here. */img{
+    width: 300px;
+    height: 300px;
+
+}
+h1{
+    color:black;
+}
+nav{
+    padding: 10px 20px;
+    background-color: aqua;
+}
+ul{
+    padding: 10px;
+}
+li{
+    color:blue;
+}
